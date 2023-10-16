@@ -101,6 +101,7 @@ group("test") {
     "//llvm/utils/FileCheck",
     "//llvm/utils/count",
     "//llvm/utils/not",
+    "//llvm/tools/obj2yaml",
   ]
 
   testonly = true
